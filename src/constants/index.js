@@ -260,8 +260,8 @@ const experiences = [
       'devicon-threejs-original',
     ],
     date: "Jan 2023 - Present",
-    gitUrl: 'https://github.com/fabio-writes-code/iMovieRenter/tree/main',
-    liveUrl: 'https://imovie-renter.onrender.com/movies',
+    gitUrl: 'https://github.com/fabio-writes-code/portfolio',
+    liveUrl: 'https://fabio-writes-code.onrender.com/',
     points: [
       "Develop the Front end presentation of my personal portfolio website",
       "Designed and deploy the website using React.js, React-Router, TailwindCSS, Three.Js, Motion and complimentary frameworks.",
@@ -286,7 +286,6 @@ const experiences = [
       "Scheduler list app built using React.js and React-router",
       "Functional calculator built using vanilla JS, CSS and HTML",
       "Functional etch-a-sketch built using vanilla JS, CSS and HTML",
-      "Deployed website to Render.io",
     ],
   },
 ];
