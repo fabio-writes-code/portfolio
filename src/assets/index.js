@@ -12,6 +12,8 @@ import littleLemon from './little-lemon.png'
 import cleverSearch from './clever-search.png'
 import personalWeb from './portfolio-website.png'
 import projectSmall from './projects-small.png'
+import delivy from './delivy.gif'
+import nativeTeachers from './native-teachers.gif'
 
 import email from './mail.svg'
 import location from './location.svg'
@@ -28,6 +30,8 @@ export {
   close,
   stack,
   movieRenter,
+  delivy,
+  nativeTeachers,
   littleLemon,
   cleverSearch,
   personalWeb,

@@ -25,7 +25,7 @@ const Contact = () => {
   }
 
   const handleSubmit=e=>{
-    e.preventDedault()
+    e.preventDefault()
   }
 
   return (
